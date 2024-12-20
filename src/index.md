@@ -1,18 +1,20 @@
 ---
 layout: "post.njk"
-title: "Welcome to Academic Blog Template"
-description: "Eleventy academic blog template"
+title: "Welcome to GO6"
+description: "Group of 6"
 ---
 
-This is a template for academic blog. See the [GitHub Repository here](https://github.com/CondensedMilk7/eleventy-academic-template).
+GO6 means group of the 6 following members.
 
-It supports citations [@allport1935], powered by [markdown-it-biblatex](https://github.com/arothuis/markdown-it-biblatex),
-[table of contents](https://github.com/cmaas/markdown-it-table-of-contents),
-and LaTeX style math expressions with [markdown-it-mathjax3](https://github.com/tani/markdown-it-mathjax3#readme).
+Ordered alphabetically
 
-$\sqrt{3x-1}+(1+x)^2$
+1. Agbalog
+2. Jumao-As
+3. Lauron
+4. Macale
+5. Panio
+6. Revilla
 
-Who would need this? People who work in academic or educational fields
-and want to make their work available on the web.
+IT Fundamental, BSIT - 1C
 
-[bibliography]
+In compliance to Mr. Edmar Ubatay

@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Eleventy Academic Blog Template",
+  title: "GO6 Website",
   url: "https://example.com/",
   language: "en",
   description: "My publications in web format",
